@@ -1,0 +1,13 @@
+{
+  "itemGroup.aquaticecology": "Example Mod Tab",
+  "block.aquaticecology.example_block": "Example Block",
+  "item.aquaticecology.example_item": "Example Item",
+
+  "aquaticecology.configuration.title": "Aquatic Ecology Configs",
+  "aquaticecology.configuration.section.aquaticecology.common.toml": "Aquatic Ecology Configs",
+  "aquaticecology.configuration.section.aquaticecology.common.toml.title": "Aquatic Ecology Configs",
+  "aquaticecology.configuration.items": "Item List",
+  "aquaticecology.configuration.logDirtBlock": "Log Dirt Block",
+  "aquaticecology.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aquaticecology.configuration.magicNumber": "Magic Number"
+}
