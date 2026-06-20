@@ -1,6 +1,6 @@
 {
-  "itemGroup.aquaticecology": "Aquatic Ecology",
-  "item.aquaticecology.raw_carp": "Raw Carp",
+  "itemGroup.aquaticecology": "水域生态",
+  "item.aquaticecology.raw_carp": "鲤鱼",
 
   "aquaticecology.configuration.title": "Aquatic Ecology Configs",
   "aquaticecology.configuration.section.aquaticecology.common.toml": "Aquatic Ecology Configs",
