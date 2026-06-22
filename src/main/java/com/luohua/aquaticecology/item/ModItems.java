@@ -7,7 +7,7 @@ import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-public class ModItems {
+public class    ModItems {
 
     public static final DeferredRegister.Items ITEMS =
             DeferredRegister.createItems(AquaticEcology.MOD_ID);
